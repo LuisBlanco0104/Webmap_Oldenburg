@@ -8,3 +8,5 @@ This HTML file shows a webmap using the QGIS plugin "QGIS2web", it show differen
 3. Street infrastructure.
 4. The boundaries of the city of Oldenbur
 5. Two different basemaps: Light/Dark modes of OSM.
+
+https://luisblanco0104.github.io/webmap_oldenburg/
